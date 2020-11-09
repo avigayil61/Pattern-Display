@@ -1,5 +1,8 @@
+/*
+Output three different patterns: Hollow square, checkerboard, or pyramid
+*/
 import java.util.Scanner;
-public class SchuchmanHW3 {
+public class PatternDisplay {
 
 	public static void main(String[] args) {
 Scanner input = new Scanner(System.in);
